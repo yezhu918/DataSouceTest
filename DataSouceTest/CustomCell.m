@@ -36,8 +36,8 @@
     UILabel * lab3 = objc_getAssociatedObject(self, @"lbl3");
     
     lab1.text =str;
-    lab2.text =@"奸 夫";
-    lab3.text =@"淫 妇";
+    lab2.text =@"哈哈";
+    lab3.text =@"呵呵";
 }
 
 - (void)layoutSubviews{

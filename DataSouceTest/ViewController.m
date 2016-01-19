@@ -25,10 +25,10 @@ static NSString * const indentifier = @"indentifier";
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
-    NSString * str1 = @"文 章";
-    NSString * str2 = @"姚 晨";
+    NSString * str1 = @"张三";
+    NSString * str2 = @"李四";
     NSArray * arr1 = @[str1,str2];
-    NSArray * arr2 = @[@"李 晨",@"范冰冰"];
+    NSArray * arr2 = @[@"王五",@"马六"];
     NSMutableArray  * dataSource = [NSMutableArray array];
     NSInteger i = 0;
     while (i<10) {
